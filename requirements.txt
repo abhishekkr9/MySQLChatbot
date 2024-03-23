@@ -1,0 +1,7 @@
+streamlit
+langchain
+python-dotenv
+mysql-connector-python
+mistralai
+langchain-google-genai
+langchain-groq
